@@ -35,4 +35,4 @@ Palabras claves de los métodos usados, por ejemplo:
 - [Código del Proyecto](#)
 - [Video del Proyecto](#)
 - [Repositorio del Proyecto](#)
-- [Diapositivas del Proyecto](#)
+- [Diapositivas del Proyecto](https://docs.google.com/presentation/d/1AEs8fAR98fxkkoHKq5APheUPPN4vaxGqbfs2D3JmyBU/edit#slide=id.p)
