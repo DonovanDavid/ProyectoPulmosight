@@ -21,18 +21,17 @@ El dataset contiene imágenes médicas de tomografías computarizadas (TC) de lo
 Contenido del Dataset:
 - Número de muestras: 2994 imagenes y 2994 labels
 - Características principales: Imagenes de 512x512 con un solo canal 
-- Fuente del dataset: Fuente proporcionada por el docente del aréa
 
 ## Modelos
 Palabras claves de los métodos usados, por ejemplo:
 - Redes Neuronales Convolucionales (CNN)
 - Redes de Creencias Profundas (DBN) y Redes Neuronales Convolucionales (CNN)
--
--
+- Redes ResNet50 Preentrenadas
+- Redes ResNet50 Preentrenadas, usando BatchNormalization
 - Redes Neuronales Convolucionales Multiescala (MCNN)
 
 ## Enlaces
 - [Código del Proyecto](#)
 - [Video del Proyecto](#)
 - [Repositorio del Proyecto](#)
-- [Diapositivas del Proyecto](https://docs.google.com/presentation/d/1AEs8fAR98fxkkoHKq5APheUPPN4vaxGqbfs2D3JmyBU/edit#slide=id.p)
+- [Diapositivas del Proyecto](https://www.canva.com/design/DAGKTVkJ2bo/SSIyg1GBgtTTRIxY_f7V_A/edit?utm_content=DAGKTVkJ2bo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
