@@ -1,6 +1,7 @@
 # PROYECTO (Entrega Final)
 
-![Banner del Proyecto](ruta/a/la/imagen.jpg)
+![Texto alternativo](https://github.com/DonovanDavid/Analisis-Riegos-Crediticio/blob/279dbded47c3f587db66be8a1ec1b693c6acb0b8/banner%20riesgo%20crediticio.png "Título opcional")
+
 
 ## Autores
  - Donovan David Torres Vahos
