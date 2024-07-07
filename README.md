@@ -1,6 +1,6 @@
-# PROYECTO (Entrega Final)
+# PROYECTO PULMOSIGHT
 
-![Texto alternativo](https://github.com/DonovanDavid/Analisis-Riegos-Crediticio/blob/279dbded47c3f587db66be8a1ec1b693c6acb0b8/banner%20riesgo%20crediticio.png "Título opcional")
+![Texto alternativo](https://github.com/DonovanDavid/ProyectoPulmosight/blob/main/Pulmosing.png "Título opcional")
 
 
 ## Autores
@@ -9,10 +9,9 @@
  - Alvaro Steven Mejia Ortiz
 
 ## Objetivo
-Clasificación de nódulos pulmonares en imagenes médicas
+El objetivo de este proyecto es desarrollar un modelo de clasificación capaz de analizar imágenes de tomografías computarizadas (TC) de los pulmones para determinar la presencia o ausencia de nódulos pulmonares. Utilizando técnicas avanzadas de aprendizaje automático y redes neuronales profundas, el modelo busca asistir a los profesionales de la salud en la detección temprana y precisa de nódulos, mejorando así el diagnóstico y tratamiento de enfermedades pulmonares.
 
 ## Dataset
-
 - **Train data:** [Link Train Dataset](https://drive.google.com/uc?id=18wuVYG6jVnAI0PJcJO4sJyZtDTs5FbpJ)
 - **Labels data:** [Link Labels Dataset](https://drive.google.com/uc?id=1oLsKDoXMLKBzYEdH4mdIvDjJssHYXW2v)
 
@@ -21,7 +20,7 @@ El dataset contiene imágenes médicas de tomografías computarizadas (TC) de lo
 
 Contenido del Dataset:
 - Número de muestras: 2994 imagenes y 2994 labels
-- Características principales: Son imagenes de 512x512 con un solo canal 
+- Características principales: Imagenes de 512x512 con un solo canal 
 - Fuente del dataset: Fuente proporcionada por el docente del aréa
 
 ## Modelos
