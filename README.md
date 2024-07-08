@@ -31,7 +31,7 @@ Palabras claves de los métodos usados, por ejemplo:
 - Redes Neuronales Convolucionales Multiescala (MCNN)
 
 ## Enlaces
-- [Código del Proyecto](#)
-- [Video del Proyecto](#)
-- [Repositorio del Proyecto](#)
+- [Código del Proyecto](https://github.com/DonovanDavid/ProyectoPulmosight/blob/main/Proyecto_Classification_PULMONSIGTH.ipynb)
+- [Video del Proyecto](https://youtu.be/nwm-LqwRuR0)
+- [Repositorio del Proyecto](https://github.com/DonovanDavid/ProyectoPulmosight)
 - [Diapositivas del Proyecto](https://www.canva.com/design/DAGKTVkJ2bo/SSIyg1GBgtTTRIxY_f7V_A/edit?utm_content=DAGKTVkJ2bo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
